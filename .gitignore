@@ -1,0 +1,4 @@
+*.jpg
+/normalized_data*
+/cetvelbozuk*
+*.tif
