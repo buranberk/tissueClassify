@@ -2,4 +2,4 @@
 /normalized_data*
 /cetvelbozuk*
 *.tif
-/__pycache__
+/__pycache__*
